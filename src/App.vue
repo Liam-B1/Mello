@@ -2,6 +2,9 @@
 import Nav from './components/Nav.vue';
 import Card_button from './components/Card_button.vue';
 import Cards from './components/Cards.vue'
+import Board from './components/Board.vue'
+
+
 
 </script>
 
@@ -18,7 +21,8 @@ import Cards from './components/Cards.vue'
       <Card_button></Card_button>
     </div>
 
-    <Cards></Cards>
+    <Board></Board>
+    <!-- <Cards></Cards> -->
 
   </main>
 </template>

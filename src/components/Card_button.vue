@@ -1,5 +1,17 @@
+<script setup>
+import Cards from './Cards.vue';
+import Board from './Board.vue'
+
+
+const addCard = () =>{
+
+}
+
+</script>
+
+
 <template>
-    <button>Card +</button>
+    <button @click="addCard">Card +</button>
 </template>
 
 <style scoped>

@@ -21,7 +21,7 @@ h1 {
 
 nav {
     display: flex;
-    width: 1900px;
+    width: 1420px;
     height: 110px;
     background-color: #FDD85D;
     border-radius: 10px;

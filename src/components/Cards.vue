@@ -1,3 +1,14 @@
+<script setup>
+const props = defineProps({
+    props:{
+        task: string,
+    }
+})
+
+</script>
+
+
+
 <template>
     <div class="card">
         <h2>New Card!</h2> 
